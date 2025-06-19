@@ -1,95 +1,217 @@
-# Hi there, I'm Samiullah Saleem 👋
-## 🚀 AI Engineer | RAGs | Agentic AI | Computer Vision | NLP | Chatbots
+# Hi there, I'm Samiullah Saleem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-I'm passionate about building intelligent systems that solve real-world problems through cutting-edge AI technologies. With expertise spanning Retrieval-Augmented Generation (RAG), Agentic AI, Computer Vision, Natural Language Processing, and Conversational AI, I transform complex data into actionable insights and innovative solutions.
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer;RAG+Systems+Expert;Agentic+AI+Developer;Computer+Vision+Specialist;NLP+%26+Chatbots+Builder" alt="Typing SVV" />
+</div>
 
-## 🔬 What I Do
-- **RAG Systems**: Designing and implementing sophisticated Retrieval-Augmented Generation pipelines for knowledge-intensive applications
-- **Agentic AI**: Building autonomous AI agents that can reason, plan, and execute complex multi-step tasks
-- **Computer Vision**: Developing robust vision systems for object detection, image classification, and visual understanding
-- **Natural Language Processing**: Creating intelligent text processing, understanding, and generation systems
-- **Chatbots & Conversational AI**: Building intelligent conversational interfaces and virtual assistants
-- **Generative AI**: Leveraging state-of-the-art models for content creation and problem-solving
-
-## 🛠️ Tech Stack
-
-### AI Agent Development
-- 🦜 **LangChain** & **LangGraph** for AI application orchestration
-- 🤖 **CrewAI** for collaborative multi-agent systems
-- 🔄 **AutoGen** for conversational AI agents
-- 🛠️ **Agent Development Toolkit** for custom agent architectures
-
-### Core AI/ML Frameworks
-- 🐍 **Python** (Primary language)
-- 🔥 **PyTorch** & **TensorFlow** for deep learning
-- 📊 **Scikit-Learn** for traditional machine learning
-- 🔍 **Transformers** (Hugging Face) for NLP tasks
-- 🤗 **Sentence Transformers** for embeddings
-
-### Vector Databases & Search
-- 📚 **ChromaDB** for local vector storage
-- 📌 **Pinecone** for managed vector database
-- 🌊 **Weaviate** for semantic search
-- 🔍 **FAISS** for similarity search
-- 🎯 **Qdrant** for neural search
-- 📊 **Elasticsearch** for hybrid search
-
-### Generative AI & LLMs
-- 🤖 **OpenAI** (GPT-4, GPT-3.5, DALL-E)
-- 🎭 **Claude** (Anthropic)
-- 🦙 **Meta LLaMA** family models
-- ⚡ **Groq** for high-speed inference
-- 🎨 **Stable Diffusion** for image generation
-- 🖼️ **Midjourney** & **DALL-E** for creative image synthesis
-- 🔥 **Ollama** for local model deployment
-
-### Web Development
-- ⚛️ **React** for modern frontend development
-- 📜 **JavaScript** & **TypeScript**
-- 🎨 **HTML5** & **CSS3**
-- 🎯 **Django** for robust backend applications
-- 🌶️ **Flask** for lightweight web services
-- 🚀 **FastAPI** for high-performance APIs
-- 🌐 **Streamlit** for rapid AI prototyping and demos
-
-### Cloud & Deployment
-- ☁️ **AWS** (Primary cloud platform)
-- 🔷 **Azure** & **GCP** (Multi-cloud experience)
-- 🐳 **Docker** for containerization
-- ☸️ **Kubernetes** for orchestration
-- 🔄 **GitHub Actions** for CI/CD
-
-### Database & Storage
-- 🗄️ **PostgreSQL**, **MongoDB**
-- 📊 **Redis** for caching and real-time applications
-- 🔥 **Firebase** for real-time databases
-
-## 🎯 Current Focus
-- 🔬 Advanced RAG architectures with GraphRAG and multi-modal retrieval
-- 🤖 Building sophisticated agentic workflows for business automation
-- 🌐 Exploring cutting-edge multimodal AI and vision-language models
-- ⚡ Optimizing AI inference performance and cost efficiency
-- 🔄 Developing autonomous AI systems with self-improvement capabilities
-
-## 🏅 Core Competencies
-- **RAG Engineering**: Vector databases, embedding optimization, retrieval strategies
-- **Agent Architecture**: Multi-agent coordination, tool integration, reasoning frameworks
-- **Computer Vision**: Object detection, image classification, OCR, video analysis
-- **NLP Engineering**: Text classification, named entity recognition, sentiment analysis
-- **Conversational AI**: Dialog management, intent recognition, context handling
-- **MLOps**: Model deployment, monitoring, A/B testing, performance optimization
-
-## 📈 Impact & Results
-- 🚀 Reduced customer service response time by 70% through intelligent automation
-- 📊 Improved document search accuracy by 60% with advanced RAG implementations
-- 💰 Generated $500K+ cost savings through AI-powered process automation
-- ⚡ Achieved sub-second response times for complex multi-step AI workflows
-
-## 📫 Let's Connect
-- 📧 Email: sami.uoh@gmail.com
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/samiullah-saleem)
-- 🐙 GitHub: [Check out my projects](https://github.com/samiullah-saleem)
-- 🌐 Portfolio: [View my work](https://samiullah-portfolio.com)
+<div align="center">
+ <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
-*"Building the future of AI, one intelligent system at a time"* 🚀
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+I'm passionate about building **intelligent systems** that solve real-world problems through cutting-edge AI technologies. With expertise spanning **Retrieval-Augmented Generation (RAG)**, **Agentic AI**, **Computer Vision**, **Natural Language Processing**, and **Conversational AI**, I transform complex data into actionable insights and innovative solutions.
+
+### 🔬 What I Do
+- 🧠 **RAG Systems**: Sophisticated Retrieval-Augmented Generation pipelines
+- 🤖 **Agentic AI**: Autonomous AI agents with reasoning capabilities
+- 👁️ **Computer Vision**: Advanced vision systems and real-time processing
+- 🗣️ **NLP**: Intelligent text processing and understanding systems
+- 💬 **Chatbots**: Conversational AI interfaces and virtual assistants
+- ✨ **Generative AI**: State-of-the-art content creation and problem-solving
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 🤖 AI Agent Development
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graph&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-4ECDC4?style=for-the-badge&logo=crew&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-45B7D1?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### 🧠 Core AI/ML Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+
+### 📚 Vector Databases & Search
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=chroma&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logo=weaviate&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-326CE5?style=for-the-badge&logo=facebook&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### 🎯 Generative AI & LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=for-the-badge&logo=stability-ai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### ☁️ Cloud & Deployment
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
+
+- 🔬 **Advanced RAG architectures** with GraphRAG and multi-modal retrieval
+- 🤖 **Building sophisticated agentic workflows** for business automation
+- 🌐 **Exploring cutting-edge multimodal AI** and vision-language models
+- ⚡ **Optimizing AI inference performance** and cost efficiency
+- 🔄 **Developing autonomous AI systems** with self-improvement capabilities
+
+---
+
+## 🏅 Core Competencies
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/>
+<br><strong>RAG Engineering</strong>
+<br>Vector databases, embedding optimization, retrieval strategies
+</td>
+<td align="center" width="200">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
+<br><strong>Agent Architecture</strong>
+<br>Multi-agent coordination, tool integration, reasoning frameworks
+</td>
+<td align="center" width="200">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
+<br><strong>Computer Vision</strong>
+<br>Object detection, image classification, OCR, video analysis
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
+<br><strong>NLP Engineering</strong>
+<br>Text classification, NER, sentiment analysis
+</td>
+<td align="center" width="200">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"/>
+<br><strong>Conversational AI</strong>
+<br>Dialog management, intent recognition, context handling
+</td>
+<td align="center" width="200">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100"/>
+<br><strong>MLOps</strong>
+<br>Model deployment, monitoring, A/B testing, optimization
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samiullah-saleem&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiullah-saleem&layout=compact&theme=radical"/>
+</div>
+
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiullah-saleem&theme=radical" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=samiullah-saleem&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=samiullah-saleem&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💫 Impact & Results
+
+<div align="center">
+
+| 🚀 Achievement | 📊 Impact | 💰 Value |
+|:---|:---|:---|
+| **Customer Service Automation** | 70% response time reduction | $200K+ savings |
+| **Document Search Accuracy** | 60% improvement with RAG | $150K+ efficiency |
+| **Process Automation** | 85% task automation rate | $500K+ cost reduction |
+| **AI Workflow Performance** | Sub-second response times | 40% faster processing |
+
+</div>
+
+---
+
+## 🌟 Profile Views & Followers
+
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=samiullah-saleem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+ <img src="https://img.shields.io/github/followers/samiullah-saleem?label=Followers&style=social" alt="GitHub Followers" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sami.uoh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiullah-saleem)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samiullah-saleem)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://samiullah-portfolio.com)
+
+</div>
+
+<div align="center">
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+ <em><b>"Building the future of AI, one intelligent system at a time"</b></em> 
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+</div>
+
+---
+
+<div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
