@@ -70,7 +70,7 @@ I'm passionate about building **intelligent systems** that solve real-world prob
 
 ## 🎯 Current Focus
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZ6ZjlmZGM5ZXg0dHA4bnNsbWQwOXk1aWd4MHc5djlnbmh6aG03ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uHZCLlVJRKSi87zSoc/giphy.gif">
+<img align="right" alt="Coding" width="400" height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZ6ZjlmZGM5ZXg0dHA4bnNsbWQwOXk1aWd4MHc5djlnbmh6aG03ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uHZCLlVJRKSi87zSoc/giphy.gif">
 
 - 🔬 **Advanced RAG architectures** with GraphRAG and multi-modal retrieval
 - 🤖 **Building sophisticated agentic workflows** for business automation
