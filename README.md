@@ -78,6 +78,7 @@ I'm passionate about building **intelligent systems** that solve real-world prob
 - ⚡ **Optimizing AI inference performance** and cost efficiency
 - 🔄 **Developing autonomous AI systems** with self-improvement capabilities
 
+<br clear="right"/>
 ---
 
 ## 🏅 Core Competencies
