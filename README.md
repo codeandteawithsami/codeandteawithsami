@@ -79,6 +79,7 @@ I'm passionate about building **intelligent systems** that solve real-world prob
 - 🔄 **Developing autonomous AI systems** with self-improvement capabilities
 
 <br clear="right"/>
+
 ---
 
 ## 🏅 Core Competencies
