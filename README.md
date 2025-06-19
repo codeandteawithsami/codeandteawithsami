@@ -52,7 +52,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF0MXJpdTR3MmUxeWZzamMxOWVpZGZvbHhjMTRxNTIzMm4yeWt6ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B0iVNtG6BsTXG/giphy.gif">
 
 I'm passionate about building **intelligent systems** that solve real-world problems through cutting-edge AI technologies. With expertise spanning **Retrieval-Augmented Generation (RAG)**, **Agentic AI**, **Computer Vision**, **Natural Language Processing**, and **Conversational AI**, I transform complex data into actionable insights and innovative solutions.
 
