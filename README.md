@@ -152,10 +152,6 @@ I'm passionate about building **intelligent systems** that solve real-world prob
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeandteawithsami&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeandteawithsami&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
