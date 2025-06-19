@@ -108,42 +108,48 @@ I'm passionate about building **intelligent systems** that solve real-world prob
 <table align="center">
 <tr>
 <td align="center" width="200">
-<div style="font-size: 60px;">🔍📊</div>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80"/>
+<br>🔍📊🗃️
 <br><strong>RAG Engineering</strong>
 <br>Vector databases, embedding optimization, retrieval strategies
-<br><em>🗃️ ChromaDB • 📌 Pinecone • 🔎 Semantic Search</em>
+<br><sub>ChromaDB | Pinecone | FAISS | Weaviate</sub>
 </td>
 <td align="center" width="200">
-<div style="font-size: 60px;">🤖⚙️</div>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
+<br>🤖⚙️🔗
 <br><strong>Agent Architecture</strong>
 <br>Multi-agent coordination, tool integration, reasoning frameworks
-<br><em>🦜 LangGraph • 👥 CrewAI • 🔄 AutoGen</em>
+<br><sub>LangGraph | CrewAI | AutoGen | Multi-Agent</sub>
 </td>
 <td align="center" width="200">
-<div style="font-size: 60px;">👁️📷</div>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80"/>
+<br>👁️📷🎯
 <br><strong>Computer Vision</strong>
 <br>Object detection, image classification, OCR, video analysis
-<br><em>📸 YOLO • 🎯 OpenCV • 🖼️ Image Processing</em>
+<br><sub>YOLO | OpenCV | CNN | Image Processing</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="200">
-<div style="font-size: 60px;">📝🧠</div>
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80"/>
+<br>📝🧠💭
 <br><strong>NLP Engineering</strong>
 <br>Text classification, NER, sentiment analysis
-<br><em>🤗 Transformers • 📊 spaCy • 💭 Text Mining</em>
+<br><sub>Transformers | spaCy | NLTK | Text Mining</sub>
 </td>
 <td align="center" width="200">
-<div style="font-size: 60px;">💬🗣️</div>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80"/>
+<br>💬🗣️🤖
 <br><strong>Conversational AI</strong>
 <br>Dialog management, intent recognition, context handling
-<br><em>🤖 Chatbots • 🎯 Intent • 💡 Context</em>
+<br><sub>Chatbots | Rasa | DialogFlow | Voice AI</sub>
 </td>
 <td align="center" width="200">
-<div style="font-size: 60px;">🚀📈</div>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80"/>
+<br>🚀📈⚡
 <br><strong>MLOps</strong>
 <br>Model deployment, monitoring, A/B testing, optimization
-<br><em>🐳 Docker • ☸️ K8s • 📊 Monitoring</em>
+<br><sub>Docker | Kubernetes | MLflow | CI/CD</sub>
 </td>
 </tr>
 </table>
