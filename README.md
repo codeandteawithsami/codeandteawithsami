@@ -110,7 +110,7 @@ I'm passionate about building **intelligent systems** that solve real-world prob
 </tr>
 <tr>
 <td align="center" width="200">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3F1c2E1YzZleGZrcjJoNGVxNmtpazR4N3lkMmFnMXRjcDllZ2lyeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2UCFQ5ryivxRCEqUck/giphy.gif" width="80"/>
 <br>📝🧠💭
 <br><strong>NLP Engineering</strong>
 <br>Text classification, NER, sentiment analysis
