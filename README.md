@@ -1,11 +1,11 @@
 # Hi there, I'm Samiullah Saleem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer;RAG+Systems+Expert;Agentic+AI+Developer;Computer+Vision+Specialist;NLP+%26+Chatbots+Builder" alt="Typing SVV" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer;RAG+Systems+Expert;Agentic+AI+Developer;Computer+Vision+Specialist;NLP+%26+Chatbots+Builder" alt="Typing SVG" />
 </div>
 
 <div align="center">
- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -92,7 +92,7 @@ I'm passionate about building **intelligent systems** that solve real-world prob
 ## 🎯 Current Focus
 
 <div align="center">
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
 - 🔬 **Advanced RAG architectures** with GraphRAG and multi-modal retrieval
@@ -147,16 +147,19 @@ I'm passionate about building **intelligent systems** that solve real-world prob
 ## 📈 GitHub Analytics
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samiullah-saleem&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiullah-saleem&layout=compact&theme=radical"/>
+  
+<!-- Replace 'YOUR_GITHUB_USERNAME' with your actual GitHub username -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
+
 </div>
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiullah-saleem&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=samiullah-saleem&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -164,7 +167,7 @@ I'm passionate about building **intelligent systems** that solve real-world prob
 ## 🏆 GitHub Trophies
 
 <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=samiullah-saleem&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -187,8 +190,8 @@ I'm passionate about building **intelligent systems** that solve real-world prob
 ## 🌟 Profile Views & Followers
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=samiullah-saleem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
- <img src="https://img.shields.io/github/followers/samiullah-saleem?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 ---
@@ -199,19 +202,19 @@ I'm passionate about building **intelligent systems** that solve real-world prob
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sami.uoh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiullah-saleem)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samiullah-saleem)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://samiullah-portfolio.com)
 
 </div>
 
 <div align="center">
- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
- <em><b>"Building the future of AI, one intelligent system at a time"</b></em> 
- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>"Building the future of AI, one intelligent system at a time"</b></em> 
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </div>
 
 ---
 
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
