@@ -108,36 +108,42 @@ I'm passionate about building **intelligent systems** that solve real-world prob
 <table align="center">
 <tr>
 <td align="center" width="200">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/>
+<div style="font-size: 60px;">🔍📊</div>
 <br><strong>RAG Engineering</strong>
 <br>Vector databases, embedding optimization, retrieval strategies
+<br><em>🗃️ ChromaDB • 📌 Pinecone • 🔎 Semantic Search</em>
 </td>
 <td align="center" width="200">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
+<div style="font-size: 60px;">🤖⚙️</div>
 <br><strong>Agent Architecture</strong>
 <br>Multi-agent coordination, tool integration, reasoning frameworks
+<br><em>🦜 LangGraph • 👥 CrewAI • 🔄 AutoGen</em>
 </td>
 <td align="center" width="200">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
+<div style="font-size: 60px;">👁️📷</div>
 <br><strong>Computer Vision</strong>
 <br>Object detection, image classification, OCR, video analysis
+<br><em>📸 YOLO • 🎯 OpenCV • 🖼️ Image Processing</em>
 </td>
 </tr>
 <tr>
 <td align="center" width="200">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/>
+<div style="font-size: 60px;">📝🧠</div>
 <br><strong>NLP Engineering</strong>
 <br>Text classification, NER, sentiment analysis
+<br><em>🤗 Transformers • 📊 spaCy • 💭 Text Mining</em>
 </td>
 <td align="center" width="200">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"/>
+<div style="font-size: 60px;">💬🗣️</div>
 <br><strong>Conversational AI</strong>
 <br>Dialog management, intent recognition, context handling
+<br><em>🤖 Chatbots • 🎯 Intent • 💡 Context</em>
 </td>
 <td align="center" width="200">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100"/>
+<div style="font-size: 60px;">🚀📈</div>
 <br><strong>MLOps</strong>
 <br>Model deployment, monitoring, A/B testing, optimization
+<br><em>🐳 Docker • ☸️ K8s • 📊 Monitoring</em>
 </td>
 </tr>
 </table>
