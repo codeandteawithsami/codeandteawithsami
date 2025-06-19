@@ -11,13 +11,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Projects GIF" width="400">
-</div>
-
-### 🤖 AI & Agent Development
-
 <table align="center">
 <tr>
 <td align="center" width="300">
