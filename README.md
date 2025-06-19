@@ -70,7 +70,7 @@ I'm passionate about building **intelligent systems** that solve real-world prob
 
 ## 🎯 Current Focus
 
-<div align="center">
+<div align="right">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
