@@ -10,6 +10,53 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Projects GIF" width="400">
+</div>
+
+### 🤖 AI & Agent Development
+
+<table align="center">
+<tr>
+<td align="center" width="300">
+<h4>🧠 <a href="https://github.com/codeandteawithsami/Leembo.AI">Leembo.AI</a></h4>
+<p>Advanced AI-powered platform combining multiple AI capabilities</p>
+<br>🏷️ <code>AI Platform</code> <code>Multi-Modal</code>
+</td>
+<td align="center" width="300">
+<h4>🩺 <a href="https://github.com/codeandteawithsami/DR-Thinkey">DR-Thinkey</a></h4>
+<p>AI-powered medical diagnosis and healthcare assistant system</p>
+<br>🏷️ <code>Healthcare AI</code> <code>Diagnosis</code>
+</td>
+<td align="center" width="300">
+<h4>🎨 <a href="https://github.com/codeandteawithsami/Image-generation">Image Generation</a></h4>
+<p>Creative AI image generation using state-of-the-art models</p>
+<br>🏷️ <code>Generative AI</code> <code>Image</code>
+</td>
+</tr>
+<tr>
+<td align="center" width="300">
+<h4>🍽️ <a href="https://github.com/codeandteawithsami/Multi-Agent-Lunch-Buddy-Crew.ai">Multi-Agent Lunch Buddy</a></h4>
+<p>Crew.ai powered multi-agent system for lunch recommendations</p>
+<br>🏷️ <code>CrewAI</code> <code>Multi-Agent</code>
+</td>
+<td align="center" width="300">
+<h4>🔗 <a href="https://github.com/codeandteawithsami/LangGraph-Demo">LangGraph Demo</a></h4>
+<p>Demonstration of LangGraph for building complex AI workflows</p>
+<br>🏷️ <code>LangGraph</code> <code>Workflows</code>
+</td>
+<td align="center" width="300">
+<h4>🛠️ <a href="https://github.com/codeandteawithsami/AGENT_DEVELOPMENT_KIT">Agent Development Kit</a></h4>
+<p>Comprehensive toolkit for building and deploying AI agents</p>
+<br>🏷️ <code>Agent Framework</code> <code>Toolkit</code>
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
